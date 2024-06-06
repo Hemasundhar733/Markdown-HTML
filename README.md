@@ -40,8 +40,12 @@
 
 6. **Access the Application:**
    Open your web browser and go to `http://localhost:3000` to access the Markdown editor application locally.
+   ![image](https://github.com/Hemasundhar733/Markdown-HTML/assets/69297895/0fb1023e-2636-4ff5-b0bc-deb988953395)
 
-7. **Toggle Between Dark and Light Modes:**
+
+8. **Toggle Between Dark and Light Modes:**
    Use the toggle button at the top right corner of the application to switch between dark and light modes.
+   ![image](https://github.com/Hemasundhar733/Markdown-HTML/assets/69297895/b31d12f0-f565-4f5c-aa5e-f5f5029fa4f5)
+
 
 That's it! You've successfully set up and run the Markdown editor application locally on your machine. You can now use the editor to write Markdown text and preview the HTML output in real-time.
